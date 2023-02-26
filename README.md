@@ -15,8 +15,8 @@
        </div>
 
 <div align="center">
- <img src = "<img src = "https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
-       alt="" /></a>
+ <img src = <img src = "https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
+       alt="snake" /></a>
        </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musfiquejim" alt="musfiquejim" /></a> </p>
