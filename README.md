@@ -13,9 +13,9 @@
        </div>
 
 <div align="center">
-<!--   <img src="https://i.gifer.com/XOsX.gif" -->
 
-  <img src = "<img src ="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg""
+
+  <img src = "<img src ="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
        alt="snake" /></a>
        </div>
 
