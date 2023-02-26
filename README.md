@@ -3,11 +3,10 @@
 <img align ="right" alt = "coding" width = "400" src = "https://media.tenor.com/r-97D5uxf9kAAAAd/hacker-ascii.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfiquejim&label=Profile%20views&color=0e75b6&style=flat" alt="musfiquejim" /> </p>
 <div align="center">
-  <a href="https://bimasha.com/">
-  <img src="https://github.com/musfiquejim/Github-snake-SVG/blob/master/snake.svg"
+ 
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musfiquejim" alt="musfiquejim" /></a> </p>
 
