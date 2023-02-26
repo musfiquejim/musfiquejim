@@ -8,16 +8,16 @@
 
   
        <p align="right"> <img src="https://t3.ftcdn.net/jpg/05/69/01/04/240_F_569010446_orc3TTPSGhcjbDCHzAgC7n98EBB2AOqw.jpg" /> </p>
-<div align="center">
- <img src = "<img src ="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
-       alt="snake" /></a>
-       </div>
+
 <div align="center">
   <img src="https://github.com/musfiquejim/musfiquejim/blob/main/snake.svg"
        alt="snake" /></a>
        </div>
 
-
+<div align="center">
+ <img src = "<img src = "https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
+       alt="snake" /></a>
+       </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musfiquejim" alt="musfiquejim" /></a> </p>
 
