@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfiquejim&label=Profile%20views&color=0e75b6&style=flat" alt="musfiquejim" /> </p>
 <div align="center">
  
-  <img src="https://github.com/musfiquejim/Github-snake-SVG/blob/master/snake.svg"
+  <img src="https://github.com/musfiquejim/musfiquejim/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
 
