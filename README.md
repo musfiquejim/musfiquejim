@@ -2,22 +2,24 @@
 <h3 align="center">A passionated Software Enginner from Bangladesh</h3>
 
 
-<!-- <img align ="right" alt = "coding" width = "400" src = "https://media.tenor.com/r-97D5uxf9kAAAAd/hacker-ascii.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfiquejim&label=Profile%20views&color=0e75b6&style=flat" alt="musfiquejim" /> </p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfiquejim&label=Profile%20views&color=0e75b6&style=flat" alt="musfiquejim" /> </p>
 
 
   
-       <p align="right"> <img src="https://t3.ftcdn.net/jpg/05/69/01/04/240_F_569010446_orc3TTPSGhcjbDCHzAgC7n98EBB2AOqw.jpg" /> </p>
 
-<div align="center">
+
+  <div align="center">
   <img src="https://github.com/musfiquejim/musfiquejim/blob/main/snake.svg"
        alt="snake" /></a>
        </div>
 
 <div align="center">
- <img src = <img src = "https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
+  <img src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
        alt="snake" /></a>
        </div>
+       
+            <p align="center"> <img src="https://t3.ftcdn.net/jpg/05/69/01/04/240_F_569010446_orc3TTPSGhcjbDCHzAgC7n98EBB2AOqw.jpg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musfiquejim" alt="musfiquejim" /></a> </p>
 
