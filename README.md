@@ -6,14 +6,16 @@
 
   
        <p align="right"> <img src="https://t3.ftcdn.net/jpg/05/69/01/04/240_F_569010446_orc3TTPSGhcjbDCHzAgC7n98EBB2AOqw.jpg" /> </p>
+
+<div align="center">
+  <img src="https://github.com/musfiquejim/musfiquejim/blob/main/snake.svg"
+       alt="snake" /></a>
+       </div>
+
 <div align="center">
 <!--   <img src="https://i.gifer.com/XOsX.gif" -->
 
   <img src = "<img src ="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg""
-       alt="snake" /></a>
-       </div>
-<div align="center">
-  <img src="https://github.com/musfiquejim/musfiquejim/blob/main/snake.svg"
        alt="snake" /></a>
        </div>
 
