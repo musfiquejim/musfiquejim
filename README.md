@@ -17,13 +17,13 @@
 <div align="center">
   <img src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg"
        alt="snake" /></a>
-       </div>
+</div>
        
 <!--             <p align="center"> <img src="https://t3.ftcdn.net/jpg/05/69/01/04/240_F_569010446_orc3TTPSGhcjbDCHzAgC7n98EBB2AOqw.jpg" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musfiquejim" alt="musfiquejim" /></a> </p>
 
-<p align="center"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" /></a> </p>
+<!-- <p align="center" width="30" height="30"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" /></a> </p> -->
 
 - 🌱 I’m currently learning **Android Development**
 
@@ -61,3 +61,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musfiquejim&show_icons=true&locale=en" alt="musfiquejim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiquejim&" alt="musfiquejim" /></p>
+<p align="right"><img src="https://media0.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9526f4223ad0944b7084707693d27bf750484a08599&rid=giphy.gif&ct=s" /></a> </p>
